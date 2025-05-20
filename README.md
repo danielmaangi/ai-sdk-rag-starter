@@ -76,6 +76,25 @@ Always follow this process:
 `
 ```
 
+## UI Features
+
+The chatbot includes a modern, user-friendly interface with:
+
+1. **Sidebar Navigation**:
+   - Access via the menu button in the top-left corner
+   - Contains usage instructions and examples
+   - Provides context about the application
+
+2. **Chat Interface**:
+   - User and AI avatars for easy message identification
+   - Styled message bubbles for better readability
+   - Visual indication when tools are being called
+
+3. **Input Area**:
+   - Clean, accessible input field with send button
+   - Fixed at the bottom for easy access
+   - Responsive design that works on various screen sizes
+
 ## How to Use the Chatbot
 
 1. **First, add some information** to the knowledge base by making statements:
@@ -98,3 +117,17 @@ The chatbot will:
 - Retrieve relevant information using the `getInformation` tool
 - Provide responses based ONLY on the stored information
 - Suggest adding information when nothing relevant is found
+
+## Screenshots
+
+The enhanced UI includes:
+
+1. **Main Chat Interface**:
+   - Clean, modern design with user and AI avatars
+   - Sidebar menu for navigation and help
+   - Responsive layout that works on all devices
+
+2. **Sidebar Navigation**:
+   - Usage instructions and examples
+   - Information about the application
+   - Built with shadcn/ui components for a polished look
